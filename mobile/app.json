@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Entertainment Hub",
+    "slug": "entertainment-hub-student",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.student.entertainmenthub"
+    }
+  }
+}
